@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">Crafting seamless web experiences with code and creativity.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" >
+<img align="right" alt="coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaligupta29&label=Profile%20views&color=0e75b6&style=flat" alt="anjaligupta29" /> </p>
 
