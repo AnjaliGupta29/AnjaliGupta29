@@ -1,5 +1,5 @@
 ![logo](https://github.com/AnjaliGupta29/AnjaliGupta29/blob/main/Background%20(2).png)
-<h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
+<h1 align="center">Hello 👋, I'm Anjali Gupta</h1>
 <h3 align="center">Crafting seamless web experiences with code and creativity.</h3>
 
 <img align="right" alt="coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" >
